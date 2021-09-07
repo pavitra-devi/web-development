@@ -1,0 +1,10 @@
+button
+{
+	border-radius:20px;
+	border:1vw solid #73AD21;
+	padding:1vw;
+	margin:1.5vw;
+	border-color:red yellow green blue;
+	outline-offset:6px;
+	/*text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px black;*/
+}
